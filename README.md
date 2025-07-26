@@ -146,23 +146,6 @@ npm run dev
 - 申请审批工作流 | Application approval workflow
 - 自动通知系统 | Automatic notification system
 
-## 🧪 测试 | Testing
-
-### 测试账户 | Test Accounts
-- **邮箱** | **Email**: naovcaln@minimax.com
-- **密码** | **Password**: Jn3OLmh0xd
-
-### 测试数据 | Test Data
-- `/data/test_users.json` 中的10个预设用户资料 | 10 pre-populated user profiles in `/data/test_users.json`
-- `/data/coffee_chat_activities.json` 中的5个示例Coffee Chat活动 | 5 sample Coffee Chat activities in `/data/coffee_chat_activities.json`
-
-### 测试场景 | Testing Scenarios
-1. **用户注册和资料设置** | **User Registration & Profile Setup**
-2. **Hz匹配算法验证** | **Hz Matching Algorithm Verification**
-3. **实时聊天功能** | **Real-time Chat Functionality**
-4. **Coffee Chat活动管理** | **Coffee Chat Event Management**
-5. **申请审核流程** | **Application Review Process**
-
 ## 📁 项目结构 | Project Structure
 
 ```
@@ -188,19 +171,14 @@ hz-social/
 
 ## 🌐 部署 | Deployment
 
-### 生产环境URL | Production URL
-- **线上网站** | **Live Website**: [当前部署URL | Current deployment URL]
-- **测试环境** | **Test Environment**: 可用于功能验证 | Available for feature validation
+### URL
+- **线上网站** | **Live Website**: https://z5jjfd52lycb.space.minimax.io/ 
 
 ### 构建过程 | Build Process
 ```bash
 npm run build
 npm run preview  # 本地生产环境预览 | Local production preview
 ```
-
-### 部署命令 | Deployment Commands
-通过MiniMax WebApps平台自动部署，具有优化的构建产物。
-Automated deployment through MiniMax WebApps platform with optimized build artifacts.
 
 ## 📈 功能详解 | Features in Detail
 
