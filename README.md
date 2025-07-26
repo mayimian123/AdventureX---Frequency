@@ -1,4 +1,5 @@
 # Hz 赫兹 - 社交网络平台 | Hz - Social Networking Platform
+#AdventureX2025
 
 一个专为年轻人（16-26岁）设计的现代社交网络平台，通过基于频率的匹配算法和Coffee Chat活动连接志同道合的人。
 
